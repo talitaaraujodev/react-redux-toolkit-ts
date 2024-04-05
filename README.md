@@ -1,6 +1,6 @@
 <div align="center">
 
-# React TS + Redux + Toolkit 💜
+# React TS + Redux + Toolkit 💙
 
 Mini projeto de ecommerce implementando React redux utilizando a biblioteca toolkit.
 
