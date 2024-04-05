@@ -8,9 +8,14 @@ Mini projeto de ecommerce implementando React redux utilizando a biblioteca tool
 
 ## Algumas Fotinhas ;)
 
+### Home
+
 <p>
 <img style='margin: 5px;' src="./src/docs/images/home-1.png" />
 </p>
+
+### Home
+
 <p>
 <img style='margin: 5px;' src="./src/docs/images/home-2.png" />
 </p>
